@@ -10,8 +10,6 @@
 
 > * git Clone https://github.com/OFashioner/OFashionTechBlog.git
 > * 配置 SSH，具体见官方指南
-> *
-> *
 > 
 
 #### 本地部署 Hexo 环境

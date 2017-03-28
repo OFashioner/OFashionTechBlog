@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 迷橙时尚移动端团队官方技术博客
+title: 迷橙时尚移动端团队技术博客
 subtitle:
 description:
 author: OFashion Tech
@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: landscape-plus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
